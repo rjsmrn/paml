@@ -25,3 +25,5 @@ PAML consists of four layers:
 * [2x NPN Reflector Proximity Sensors: Keyence PZ2-42](https://www.keyence.co.th/products/sensor/photoelectric/pz2/models/pz2-42/?utm_source=chatgpt.com)
 * [USB Camera: ZW LRCP FHD Camera]
 * [DOBOT MG400](https://www.dobot-robots.com/products/desktop-four-axis/mg400.html?lang=en%3Faid%3D263%3Faid%3D262%3Faid%3D262%3Faid%3D262%3Faid%3D262%3Faid%3D262%3Faid%3D262%3Faid%3D263%3Faid%3D263%3Faid%3D263%3Faid%3D263&utm_source=chatgpt.com)
+
+# Wiring
