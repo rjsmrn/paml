@@ -2,7 +2,15 @@
 A Prompt as Machine Language (PAML) industry machine framework integrating LLM supervisory intelligence with RP2350 real-time control for Society 5.0 manufacturing.
 ![PAML](images/PAML.jpg)
 
-# Data Sheet
+# Overview
+
+PAML enables manufacturing workflows to be configured and supervised using natural-language prompts. The LLM interprets operator instructions and converts them into validated machine workflows, while the Raspberry Pi manages workflow execution, vision processing, inspection, data logging, and operator feedback.
+
+The RP2350 provides deterministic real-time control of the conveyor, sensors, motor, encoder, camera triggering, and lighting. This architecture separates flexible AI reasoning from reliable low-level machine control, enabling safer and more adaptable human–machine interaction.
+
+# System Architecture
+
+# Device's Data Sheet
 * [CYTRON MOTION 2350 Pro](https://github.com/CytronTechnologies/Cytron-MOTION-2350-PRO)
 * [Pi Interface v2.0]
 * [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/)
