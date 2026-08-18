@@ -3,4 +3,4 @@ A Prompt as Machine Language (PAML) industry machine framework integrating LLM s
 ![PAML](images/PAML.jpg)
 
 # Data Sheet
-* [https://github.com/CytronTechnologies/Cytron-MOTION-2350-PRO](CYTRON MOTION 2350 Pro)
+* [CYTRON MOTION 2350 Pro](https://github.com/CytronTechnologies/Cytron-MOTION-2350-PRO)
