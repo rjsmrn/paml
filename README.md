@@ -9,7 +9,7 @@ PAML enables manufacturing workflows to be configured and supervised using natur
 The RP2350 provides deterministic real-time control of the conveyor, sensors, motor, encoder, camera triggering, and lighting. This architecture separates flexible AI reasoning from reliable low-level machine control, enabling safer and more adaptable human–machine interaction.
 
 # System Architecture
-![System Diagram](System diagram.png)
+![System Diagram](images/System diagram.png)
 PAML consists of four layers:
 * Supervisor Intelligence: Interprets natural-language prompts and generates validated machine commands.
 * Edge Computing: Raspberry Pi 4 manages workflows, vision processing, communication, and operator feedback.
