@@ -21,7 +21,7 @@ PAML consists of four layers:
 
 # Device's Data Sheet
 * [CYTRON MOTION 2350 Pro](https://github.com/CytronTechnologies/Cytron-MOTION-2350-PRO)
-* [Pi Interface v2.0]
+* [Pi Interface v2.0](https://github.com/cratchat/Pi_Interface_v2/tree/main)
 * [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/)
 * [DC Gear Motor: JGB37-3530-CE DC24V1600RPM](https://precisionminidrives.com/product/12v24v-dc-37mm-diameter-small-electric-gear-motors-nfp-37-3530?srsltid=AfmBOoqLyXzGaCBg0TPZlXQf65OMGXQbGKlJaB8XlSD6n5TNAqdIhCrDr2w)
 * [Quadrature Encoder: 448CPR](https://precisionminidrives.com/product/37mm-dc-motor-with-photoelectric-encoder-55mm-type-model-nfp-gm37-520-pen?utm_source=chatgpt.com)
