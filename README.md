@@ -16,6 +16,8 @@ PAML consists of four layers:
 * Real-time Control: MOTION PRO 2350 handles deterministic motor and sensor control.
 * Physical Plant: Includes the conveyor motor, encoder, proximity sensors, and DOBOT MG400.
 
+# DUBOT
+
 # Device's Data Sheet
 * [CYTRON MOTION 2350 Pro](https://github.com/CytronTechnologies/Cytron-MOTION-2350-PRO)
 * [Pi Interface v2.0]
